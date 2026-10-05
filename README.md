@@ -24,6 +24,9 @@ Public SDKs and tools for building on Nexalware. All MIT licensed, contributions
 
 ## Projects
 
+**[Nexalware](https://github.com/nexalware)**\
+Offline-first AIoT infrastructure platform that lets software and AI agents control physical devices. TypeScript microservices for device orchestration, scheduling, a rule engine and webhooks over MQTT and PostgreSQL, with public SDKs and an MCP server so AI agents can act on real hardware.
+
 **[Distributed Device Control System](https://github.com/Darrey1/distributed-device-control-system/)**
 Go and gRPC service for device registration, telemetry, command dispatch with acknowledgement, and state synchronization across gateways.
 
