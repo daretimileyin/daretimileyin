@@ -1,6 +1,6 @@
 # Dare Timileyin
 
-**Backend & Systems Engineer** · Go, TypeScript, Python, Distributed Systems & Edge Computing
+**Backend & AI Engineer** · Go, TypeScript, Python, Distributed Systems & Edge Computing
 
 I build backend systems, AI agents, and device infrastructure for fintech, Web3, and connected hardware.
 
